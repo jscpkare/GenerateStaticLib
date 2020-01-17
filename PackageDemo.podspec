@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "PackageDemo"
-  s.version          = "0.0.3"
+  s.version          = "0.0.4"
   s.summary          = "The is PackageDemo"
   s.homepage         = "https://github.com/jscpkare/GenerateStaticLib"
   s.license          = 'Code is MIT, then custom font licenses.'
